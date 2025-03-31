@@ -1,0 +1,8 @@
+__pycache__/
+test.tsv
+train.tsv
+val.tsv
+*training_log*
+model.safetensors
+t5-en-vi/
+*.pth
